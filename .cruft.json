@@ -6,7 +6,7 @@
     "cookiecutter": {
       "project_name": "test-puppeteer",
       "organization": "PerchunPak",
-      "project_description": "This is how project should look like!",
+      "project_description": "Test how puppeteer would work on https://deta.space",
       "center_everything": "y",
       "_copy_without_render": [
         ".venv"
