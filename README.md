@@ -4,6 +4,8 @@
 
 Test how puppeteer would work on https://deta.space
 
+So, it doesn't work. Chrome is 280mb and max allowed space is 250mb
+
 ## Thanks
 
 This project was generated with [svelte-template](https://github.com/PerchunPak/svelte-template).
